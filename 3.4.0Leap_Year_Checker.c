@@ -10,6 +10,7 @@ int main()
     if(c==1)
     printf("%d is a Leap Year", year);
     if(c==0)
+    else
     printf("%d is not a Leap Year", year);
     return 0;
 }
@@ -19,7 +20,7 @@ int main()
     leap=year%4;
     if(leap==0)
     leap=1;
-    else
-    leap=0;
+    //else
+    //leap=0;
     return leap;
     }
