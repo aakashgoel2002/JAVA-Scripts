@@ -1,6 +1,6 @@
 #include<stdio.h>
 LeapChecker(int year);
-int main()
+void main()
 {
     int year;
     printf("Enter the year which is to be checked ");
@@ -22,5 +22,5 @@ int main()
     leap=1;
     //else
     //leap=0;
-    return leap;
+    
     }
