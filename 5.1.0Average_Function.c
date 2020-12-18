@@ -1,6 +1,6 @@
 #include<stdio.h>
 float average(float a,float b,float c);
-int main()
+void main()
 {
     float a,b,c,avg;//  taking the float variables   
     printf("Enter 3 Numbers\n");
@@ -14,5 +14,5 @@ int main()
 float average(float a,float b,float c)//function to find average
 {
     float avg=(a+b+c)/3.00;
-    return avg;
+   
 }
