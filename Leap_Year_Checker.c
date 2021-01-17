@@ -2,7 +2,7 @@
 LeapChecker(int year);
 int main(){
     int year,c;
-    printf("Enter the year which is to be checked ");
+    printf("Enter the year which is to be checked: ");
     scanf("%d",& year);
     c=LeapChecker(year);
     if(c==1)
