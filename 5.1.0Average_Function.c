@@ -1,7 +1,7 @@
 #include<stdio.h>
 float average(float a,float b,float c);
 int main(){
-    float a,b,c,avg;//  taking the float variables   
+    float a,b,c,avg;            //taking the float variables   
     printf("Enter 3 Numbers\n");
     scanf("%f",&a);//taking the input
     scanf("%f",&b);
