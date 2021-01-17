@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main(){
     int n;
     printf("Enter the Number whose table is to be printed ");
     scanf("%d",& n);
