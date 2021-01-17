@@ -12,8 +12,7 @@ int main(){
     printf("%d is not a Leap Year", year);
     return 0;
 }
-    LeapChecker(int year)
-    {
+    LeapChecker(int year){
     int leap;
     leap=year%4;
     if(leap==0)
