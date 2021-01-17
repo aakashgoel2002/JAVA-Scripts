@@ -5,7 +5,7 @@ int main(){
     printf("Enter 3 Numbers:\n");
     scanf("%f",&a);             //taking the input
     scanf("%f",&b);             //taking the input
-    scanf("%f",&c);
+    scanf("%f",&c);             //taking the input
     avg=average(a,b,c);// finding the average
     printf("The Average of the Numbers entered above is %f",avg);
     return 0;//returning main
