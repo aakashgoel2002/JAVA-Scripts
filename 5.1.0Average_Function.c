@@ -12,6 +12,6 @@ int main(){
 }
 float average(float a,float b,float c)//function to find average
 {
-    float avg=(a+b+c)/3.00;
+    float avg=(a+b+c)/3.00;     //calculating average
     return avg;
 }
