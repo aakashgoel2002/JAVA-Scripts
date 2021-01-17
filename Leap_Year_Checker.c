@@ -17,7 +17,5 @@ int main(){
     leap=year%4;
     if(leap==0)
     leap=1;
-    //else
-    //leap=0;
     return leap;
     }
