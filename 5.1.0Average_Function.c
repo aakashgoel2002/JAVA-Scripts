@@ -6,8 +6,8 @@ int main(){
     scanf("%f",&a);             //taking the input
     scanf("%f",&b);             //taking the input
     scanf("%f",&c);             //taking the input
-    avg=average(a,b,c);// finding the average
-    printf("The Average of the Numbers entered above is %f",avg);
+    avg=average(a,b,c);         // finding the average
+    printf("The Average of the Numbers entered above is: %f",avg);
     return 0;//returning main
 }
 float average(float a,float b,float c)//function to find average
