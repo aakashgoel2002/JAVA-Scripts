@@ -1,2 +1,2 @@
 # C-Scripts
-This Repository contains JAVA Programming Scripts.
+This repository contains JAVA Programming Scripts.
