@@ -7,7 +7,7 @@ public class SimpleIntrest
         int principal,rate,time;
         System.out.println("Enter Principal: ");
         principal=inp.nextInt();
-        System.out.println("Enter Rate:");
+        System.out.println("Enter Rate: ");
         rate=inp.nextInt();
         System.out.println("Enter Time");
         time=inp.nextInt();
