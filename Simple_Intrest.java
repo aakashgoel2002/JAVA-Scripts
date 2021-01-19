@@ -6,7 +6,7 @@ public class SimpleIntrest
         Scanner inp= new Scanner(System.in);
         int principal,r,t;
         System.out.println("Enter Principal");
-        p=inp.nextInt();
+        principal=inp.nextInt();
         System.out.println("Enter Rate");
         r=inp.nextInt();
         System.out.println("Enter Time");
