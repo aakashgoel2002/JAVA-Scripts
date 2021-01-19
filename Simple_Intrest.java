@@ -11,6 +11,6 @@ public class SimpleIntrest
         rate=inp.nextInt();
         System.out.println("Enter Time");
         time=inp.nextInt();
-        System.out.println("SI is"+(principal*rate*t)/100);
+        System.out.println("SI is"+(principal*rate*time)/100);
     }
 }
