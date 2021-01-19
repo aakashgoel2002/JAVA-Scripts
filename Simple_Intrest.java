@@ -1,6 +1,5 @@
 import java.util.Scanner;
-public class SimpleIntrest
-{
+public class SimpleIntrest{
     public static void main(String[] args){
         Scanner inp=new Scanner(System.in);
         int principal,rate,time;
