@@ -3,7 +3,7 @@ public class SimpleIntrest
 {
     public static void main(String[] args)
     {
-        Scanner inp= new Scanner(System.in);
+        Scanner inp=new Scanner(System.in);
         int principal,rate,time;
         System.out.println("Enter Principal: ");
         principal=inp.nextInt();
