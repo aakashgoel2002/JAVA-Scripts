@@ -8,7 +8,7 @@ public class SimpleIntrest
         System.out.println("Enter Principal");
         principal=inp.nextInt();
         System.out.println("Enter Rate");
-        r=inp.nextInt();
+        rate=inp.nextInt();
         System.out.println("Enter Time");
         t=inp.nextInt();
         System.out.println("SI is"+(principal*r*t)/100);
