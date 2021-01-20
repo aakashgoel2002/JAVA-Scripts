@@ -7,6 +7,5 @@ public class MultiplicationTable{
         number=inp.nextInt();
         for(i=1;i<=10;i++)
          System.out.println(number+"*"+i+"="+(number*i));  
-        }
     }
 }
