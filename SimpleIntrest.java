@@ -8,7 +8,7 @@ public class SimpleIntrest{
         System.out.println("Enter Rate: ");
         rate=inp.nextInt();
         System.out.println("Enter Time(in months): ");
-        time=inp.nextInt()
+        time=inp.nextInt();
         System.out.println("Simple Intrest: "+(principal*rate*time)/100);
     }
 }
