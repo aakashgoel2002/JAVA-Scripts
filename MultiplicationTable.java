@@ -9,4 +9,3 @@ public class MultiplicationTable{
         System.out.println(number+" * "+i+" = "+(number*i));
     }
 }
-
