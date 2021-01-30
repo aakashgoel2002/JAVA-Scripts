@@ -4,7 +4,7 @@ public class MultiplicationTable{
         Scanner inp=new Scanner(System.in);
         int number,i;
         System.out.println("Enter the Number of which the table is to be printed: ");
-        number=inp.nextInt();
+        number=inp.nextInt()
         for(i=1;i<=10;i++)
         System.out.println(number+" * "+i+" = "+(number*i));
     }
